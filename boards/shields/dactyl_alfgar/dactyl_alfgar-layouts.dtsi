@@ -19,7 +19,7 @@
         // Coordinates are in arbitrary units suitable for ZMK Studio display.
         // The layout follows the default_transform's MX numbering (row-major across
         // 12 columns for the main four rows, then the thumb cluster positions).
-    keys  //                     w   h    x    y     rot    rx    ry
+        keys  //                     w   h    x    y     rot    rx    ry
             = <&key_physical_attrs 100 100    0   38       0     0     0>
             , <&key_physical_attrs 100 100  100   38       0     0     0>
             , <&key_physical_attrs 100 100  200   12       0     0     0>
